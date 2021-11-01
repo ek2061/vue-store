@@ -1,0 +1,16 @@
+/* iView 穿梭框*/
+.ivu-transfer {
+    text-align: center;
+}
+
+.ivu-transfer .ivu-transfer-list {
+    text-align: left;
+}
+
+/* iView 數字欄位 */ 
+.ivu-input-number, .ivu-input-number-input{
+    width: 100%;
+}
+.ivu-input-number-handler-wrap {
+    display: none;
+}
